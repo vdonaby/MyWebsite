@@ -1,0 +1,15 @@
+the pages that I am going to have: 
+home page that allows people to login 
+creating a new account 
+food around me 
+longer description when they click on a food 
+review and rating page  
+
+mid tear logic: 
+home page that allows people to login: for this page we need write the logic to   validate what they entered for the user name and password. 
+If they did not enter anything to the fields, then it will sfend back please enter your user name and password. 
+Then if they entered something into the fields.  then we should check if by going to the databse if it is a valid user in the ddatabase. THen if it is not valid, like they typed in the wrong user id or typed the wrong password.  
+creating a new account: we error check all of the fields to make sure that they did not bad inputs, then if the fields are correct, then we should insert it into the users table in the database.  
+food around me: we determine the persons correct location, and calculate the distances from that persons original location. ALso if they look for a particular foodd like chinese we find all of the food around them based on that eparticular food.   
+longer description when they click on a food: we create a page that gives pictures, frating, reviews, description, and history of the food.  
+review and rating page: when they enter in a a review or rating, then it would enter it into the reviews table in the database. 

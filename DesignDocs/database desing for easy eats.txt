@@ -1,0 +1,8 @@
+database design for easy eats 
+
+users(user id, password, first name, last name, middle name, line 1, city, state, zip, age) 
+sheff(user id, is sheff, sign up date) 
+food( food id, description, category, photo, user id) 
+orders(order, food id, user id, number of plates) 
+reviews( user id of reviewer, user id being review, rating, review)    
+
