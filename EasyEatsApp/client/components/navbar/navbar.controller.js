@@ -4,6 +4,10 @@ class NavbarController {
   //start-non-standard
   menu = [{
     'title': 'Home',
+    'login': 'Login',
+    'order': 'Order a Meal',
+    'sell': 'Sell a Dish',
+    'join': 'Join',
     'link': '/'
   }];
 
